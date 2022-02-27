@@ -10,16 +10,16 @@ function Nav() {
               <nav >
               <ul className='flex-row'>
                   <li>
-                      <a>About</a>
+                      <a href='#about'>About</a>
                   </li>
                   <li>
-                      <a>Portfolio</a>
+                      <a href='#portfolio'>Portfolio</a>
                   </li>
                   <li>
-                      <a>Contact</a>
+                      <a href='#contact'>Contact</a>
                   </li>
                   <li>
-                      <a>Resume</a>
+                      <a href='#resume'>Resume</a>
                   </li>
               </ul>
               </nav>
