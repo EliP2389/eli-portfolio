@@ -2,7 +2,7 @@
     text-align: center;
     /* color: white; */
     padding-bottom: 25px;
-    font-size: 40px;
+    font-size: 60px;
     text-transform: uppercase;
     font-family: verdana;
     font-weight: 60;
@@ -30,7 +30,7 @@
 
 .form {
     padding-bottom: 15px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 input {

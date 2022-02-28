@@ -38,15 +38,15 @@ function Contact() {
       <h1 className='contact'>Contact me</h1>
       <form id="form" onSubmit={handleSubmit}>
         <div className='form contact-me row'>
-        <div className='mb-3 col-8'>
+        <div className='mb-4 col-8'>
           <label className='form-label' htmlFor="name">Name:</label>
           <input className='form-control' type="text" name="name" defaultValue={name} onBlur={handleChange} />
         </div>
-        <div className='mb-3 col-8'>
+        <div className='mb-4 col-8'>
           <label className='form-lable' htmlFor="email">Email address:</label>
           <input className='form-control' type="email" name="email" defaultValue={email} onBlur={handleChange} />
         </div>
-        <div className='mb-3 col-8'>
+        <div className='mb-4 col-8'>
           <label className='form-label' htmlFor="message">Message:</label>
           <textarea className='form-control' name="message" rows="3" defaultValue={message} onBlur={handleChange} />
         </div>

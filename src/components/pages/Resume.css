@@ -1,7 +1,7 @@
 .resume-name{
     /* color: white; */
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
     padding-bottom: 20px;
     text-transform: uppercase;
     font-family: verdana;
@@ -29,5 +29,5 @@
 }
 
 .image {
-    width: 600px;
+    width: 800px;
 }

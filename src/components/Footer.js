@@ -9,15 +9,15 @@ function Footer() {
             <div className='footer-content'>
                 <a href="https://www.linkedin.com/in/eliezer-pagan-033107220/"
                     className="facebook link-light">
-                    <FontAwesomeIcon icon={faFacebook} size="2x" />
+                    <FontAwesomeIcon icon={faFacebook} size="4x" />
                 </a>
                 <a href="https://www.linkedin.com/in/eliezer-pagan-033107220/"
                     className="instagram link-light">
-                    <FontAwesomeIcon icon={faInstagram} size="2x" />
+                    <FontAwesomeIcon icon={faInstagram} size="4x" />
                 </a>
                 <a href="https://www.linkedin.com/in/eliezer-pagan-033107220/"
                     className="linkedin link-light">
-                    <FontAwesomeIcon icon={faLinkedin} size="2x" />
+                    <FontAwesomeIcon icon={faLinkedin} size="4x" />
                 </a>
             </div>
         </footer>

@@ -3,6 +3,7 @@
 }
 
 .about{
+    font-size: 60px;
     padding-bottom: 15px;
     text-transform: uppercase;
     font-family: verdana;
@@ -26,6 +27,6 @@
 }
 
 .about-story{
-    font-size: 18px;
+    font-size: 25px;
     text-align: center;
 }

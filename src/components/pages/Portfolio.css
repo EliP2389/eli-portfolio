@@ -3,7 +3,7 @@
 }
 
 .project-name{
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
     padding-bottom: 20px;
     text-transform: uppercase;
@@ -32,27 +32,31 @@
     color: white;
   }
 
+.portfolio-content{
+  font-size: 25px;
+}
 
-.deployed {  
+
+/* .deployed {  
     padding-bottom: 65px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
+  } */
 
-.repo {
+/* .repo {
     padding-top: 65px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%)
-}
+} */
 
 .img{
   padding-top: 15px;
   padding-bottom: 15px;
-  width: 400px;
+  width: 600px;
 }
 
 .proj-link {
