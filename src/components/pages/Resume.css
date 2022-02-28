@@ -1,0 +1,14 @@
+.resume-name{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.resume {
+    position: relative;
+    text-align: center;
+}
+
+.image {
+    width: 600px;
+}
