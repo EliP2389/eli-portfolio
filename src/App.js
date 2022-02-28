@@ -1,10 +1,11 @@
 import React from 'react'
-import HomeScreen from './components/HomeScreen'
+import PortfolioContainer from './components/PortfolioContainer'
+
 
 function App() {
   return (
     <div>
-      <HomeScreen />
+      <PortfolioContainer />
     </div>
   )
 }
