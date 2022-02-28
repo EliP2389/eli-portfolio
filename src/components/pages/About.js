@@ -1,13 +1,21 @@
 import React from 'react';
 import './About.css';
 
-
 function About() {
     return (
-        <section className='about-section'>
+        <section className='about-section container'>
             <h1 className='about'>About</h1>
             <div className='about-story'>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.</p>
+                <p className=''><strong>Full Stack Web Developer</strong> <br />
+                My name is Eliezer Pagan, I am a recent graduate of the Full Stack Web Developer program through
+                Columbia Engineering Coding Boot Camp. Ive come to learn both front-end and back-end technologies
+                and associated libraires and frameworks. I took the courageous step to step outside of my comfort
+                zone and learn web development. I come from a background of electrical and mechanical work as a
+                signal maintainer at amtrak. As it is a great career, I wanted something more for myself. I wanted
+                to push myself and learn something new, challenging, and peaked my interest. Web developement was 
+                the answer. I decided on my own to learn and try out learning to code on my own and then 
+                decided to attend a coding bootcamp. It was one of the best decisions I have made and I am eager and
+                motivated to continue learning.</p>
             </div>
         </section>
     )

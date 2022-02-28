@@ -34,27 +34,29 @@ function Contact() {
   };
 
   return (
-    <section>
+    <section className='container'>
       <h1 className='contact'>Contact me</h1>
-      <form className='container' id="contact-form" onSubmit={handleSubmit}>
-        <div className='form'>
-          <label htmlFor="name">Name:</label>
-          <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
+      <form id="form" onSubmit={handleSubmit}>
+        <div className='form contact-me row'>
+        <div className='mb-3 col-8'>
+          <label className='form-label' htmlFor="name">Name:</label>
+          <input className='form-control' type="text" name="name" defaultValue={name} onBlur={handleChange} />
         </div>
-        <div className='form'>
-          <label htmlFor="email">Email address:</label>
-          <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
+        <div className='mb-3 col-8'>
+          <label className='form-lable' htmlFor="email">Email address:</label>
+          <input className='form-control' type="email" name="email" defaultValue={email} onBlur={handleChange} />
         </div>
-        <div className='form'>
-          <label htmlFor="message">Message:</label>
-          <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+        <div className='mb-3 col-8'>
+          <label className='form-label' htmlFor="message">Message:</label>
+          <textarea className='form-control' name="message" rows="3" defaultValue={message} onBlur={handleChange} />
+        </div>
         </div>
         {errorMessage && (
           <div>
             <p className="error-text">{errorMessage}</p>
           </div>
         )}
-        <button data-testid="button" type="submit">Submit</button>
+        <button className='button-form' data-testid="button" type="submit">Submit</button>
       </form>
     </section>
   )
