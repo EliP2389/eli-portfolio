@@ -40,6 +40,7 @@ function Nav({ handleChange }) {
                     </ul>
                 </nav>
             </div>
+            {/* <div className='nav-fadeBottom' /> */}
         </header>
     );
 }
