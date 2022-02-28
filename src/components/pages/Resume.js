@@ -8,7 +8,7 @@ function Resume() {
     <section>
       <div className='resume'>
         <h1 className='resume-name'>Resume</h1>
-        <a href={document}><img className='image' src={image}/></a>
+        <a href={document}><img className='image' src={image} alt='resume'/></a>
       </div>
     </section>
   )
