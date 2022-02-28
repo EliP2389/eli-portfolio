@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eli-portfolio/static/css/main.e8a83150.css",
-    "main.js": "/eli-portfolio/static/js/main.5e9f7707.js",
+    "main.css": "/eli-portfolio/static/css/main.5d3dce02.css",
+    "main.js": "/eli-portfolio/static/js/main.90c66a22.js",
     "static/js/787.114119fd.chunk.js": "/eli-portfolio/static/js/787.114119fd.chunk.js",
     "static/media/market-img.png": "/eli-portfolio/static/media/market-img.c56bd6c4ae900056da15.png",
     "static/media/sqlproj-img.png": "/eli-portfolio/static/media/sqlproj-img.79c58380c8380d520c9b.png",
@@ -10,12 +10,12 @@
     "static/media/budget-img.png": "/eli-portfolio/static/media/budget-img.1202876521bde8f6a25d.png",
     "static/media/ELI-RESUME.pdf": "/eli-portfolio/static/media/ELI-RESUME.24ca772a948f5e761af3.pdf",
     "index.html": "/eli-portfolio/index.html",
-    "main.e8a83150.css.map": "/eli-portfolio/static/css/main.e8a83150.css.map",
-    "main.5e9f7707.js.map": "/eli-portfolio/static/js/main.5e9f7707.js.map",
+    "main.5d3dce02.css.map": "/eli-portfolio/static/css/main.5d3dce02.css.map",
+    "main.90c66a22.js.map": "/eli-portfolio/static/js/main.90c66a22.js.map",
     "787.114119fd.chunk.js.map": "/eli-portfolio/static/js/787.114119fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8a83150.css",
-    "static/js/main.5e9f7707.js"
+    "static/css/main.5d3dce02.css",
+    "static/js/main.90c66a22.js"
   ]
 }
