@@ -4,7 +4,7 @@ import './Nav.css'
 function Nav({ handleChange }) {
 
     return (
-        <header className="nav-header">
+        <header className="nav-header container-fluid">
             <div className='nav_content'>
                 <h1 className='name'>Eli Pagan</h1>
                 <nav>

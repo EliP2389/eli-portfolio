@@ -1,7 +1,7 @@
 import React from 'react';
 import './Footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 function Footer() {
     return (
@@ -9,15 +9,15 @@ function Footer() {
             <div className='footer-content'>
                 <a href="https://www.linkedin.com/in/eliezer-pagan-033107220/"
                     className="facebook link-light">
-                    <FontAwesomeIcon icon={faFacebook} size="4x" />
+                    <FontAwesomeIcon icon={faFacebook} size="3x" />
                 </a>
-                <a href="https://www.linkedin.com/in/eliezer-pagan-033107220/"
+                <a href="https://github.com/EliP2389"
                     className="instagram link-light">
-                    <FontAwesomeIcon icon={faInstagram} size="4x" />
+                    <FontAwesomeIcon icon={faGithub} size="3x" />
                 </a>
                 <a href="https://www.linkedin.com/in/eliezer-pagan-033107220/"
                     className="linkedin link-light">
-                    <FontAwesomeIcon icon={faLinkedin} size="4x" />
+                    <FontAwesomeIcon icon={faLinkedin} size="3x" />
                 </a>
             </div>
         </footer>

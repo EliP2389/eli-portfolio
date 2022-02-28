@@ -5,7 +5,7 @@ import document from '../../assets/resume/ELI-RESUME.pdf';
 
 function Resume() {
   return (
-    <section>
+    <section className='container-fluid'>
       <div className='resume'>
         <h1 className='resume-name'>Resume</h1>
         <a href={document}><img className='image' src={image} alt='resume'/></a>

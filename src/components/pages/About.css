@@ -30,3 +30,12 @@
     font-size: 25px;
     text-align: center;
 }
+
+@media screen and (max-width: 992px) {
+    .about {
+        font-size: 40px;
+    }
+    .about-story {
+        font-size: 16px;
+    }
+}

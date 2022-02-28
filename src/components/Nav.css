@@ -75,3 +75,21 @@
     1px 30px 60px rgba(16,16,16,0.4);
   text-decoration: none;
 }
+
+@media screen and (max-width: 992px) {
+    .name {
+       font-size: 50px; 
+    }
+    .flex-row {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .name {
+        font-size: 30px;
+    }
+    .flex-row {
+        font-size: 14px;
+    }
+}

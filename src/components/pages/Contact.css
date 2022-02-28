@@ -30,7 +30,7 @@
 
 .form {
     padding-bottom: 15px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 input {
@@ -58,6 +58,7 @@ textarea {
 .button-form{
 color: white;
 background-color: blue;
+font-size: 20px;
 font-weight: 700;
 border: none;
 border-radius: 0.2vw;
@@ -69,3 +70,8 @@ border-radius: 0.2vw;
   transition: all 0.3s;
 }
 
+@media screen and (max-width: 992px) {
+   .contact {
+     font-size: 40px;
+   }
+}

@@ -31,3 +31,12 @@
 .image {
     width: 800px;
 }
+
+@media screen and (max-width: 992px) {
+    .resume-name {
+        font-size: 40px;
+    }
+    .image {
+        width: 300px;
+    }
+}

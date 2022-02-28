@@ -62,3 +62,12 @@
 .proj-link {
   text-decoration: none;
 }
+
+@media screen and (max-width: 992px) {
+  .project-name {
+    font-size: 40px;
+  }
+  .img {
+    width: 350px;
+  }
+}

@@ -7,7 +7,7 @@ import images3 from '../../assets/images/sqlproj-img.png';
 
 export default function Portfolio() {
   return (
-    <section className='portfolio'>
+    <section className='portfolio container-fluid'>
       <h1 className='project-name'>Projects</h1>
       <div className='portfolio-content'>
         <div className='container'>
