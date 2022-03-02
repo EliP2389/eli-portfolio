@@ -9,7 +9,7 @@
     text-transform: uppercase;
     font-family: verdana;
     font-weight: 60;
-    color: #f5f5f5;
+    color: beige;
     text-shadow: 1px 1px 1px #919191,
         1px 2px 1px #919191,
         1px 3px 1px #919191,
@@ -36,29 +36,6 @@
   font-size: 25px;
 }
 
-
-/* .deployed {  
-    padding-bottom: 65px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  } */
-
-/* .repo {
-    padding-top: 65px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%)
-} */
-
-/* .img{
-  padding-top: 15px;
-  padding-bottom: 15px;
-  width: 600px;
-} */
-
 .proj-link {
   padding: 4px;
   text-decoration: none;
@@ -67,7 +44,7 @@
 }
 
 .proj-link:hover {
-  background-color: rgb(46, 46, 182);
+  background-color: navy;
   color: white;
   transition: all 0.4s;
 }

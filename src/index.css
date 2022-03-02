@@ -11,9 +11,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(-45deg, #ff3b3b, #0024ee, #d10000, #00a2ff);
-  background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
+  background-image: url(https://cdn.wallpapersafari.com/72/64/OQI63W.jpg);
+  background-size: cover;
+  background-position: center center;
 }
 
 code {
@@ -21,15 +21,3 @@ code {
     monospace;
 }
 
-
-@keyframes gradient {
-  0% {
-      background-position: 0% 50%;
-  }
-  50% {
-      background-position: 100% 50%;
-  }
-  100% {
-      background-position: 0% 50%;
-  }
-}
