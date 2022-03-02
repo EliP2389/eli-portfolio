@@ -32,6 +32,11 @@
     text-align: center;
   }
 
+.row {
+  display: flex;
+  justify-content: center;
+}
+
 .proj-link {
   padding: 4px;
   text-decoration: none;
