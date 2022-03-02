@@ -60,7 +60,28 @@
 } */
 
 .proj-link {
+  padding: 4px;
   text-decoration: none;
+  border: solid 1px lightgray;
+  color: black;
+}
+
+.proj-link:hover {
+  background-color: rgb(46, 46, 182);
+  color: white;
+  transition: all 0.4s;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.card-header {
+  background-color: beige;
+}
+
+.card-footer {
+  background-color: beige;
 }
 
 @media screen and (max-width: 992px) {
