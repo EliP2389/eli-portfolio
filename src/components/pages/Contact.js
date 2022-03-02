@@ -43,7 +43,7 @@ function Contact() {
           <input className='form-control' type="text" name="name" defaultValue={name} onBlur={handleChange} />
         </div>
         <div className='mb-4 col-8'>
-          <label className='form-lable' htmlFor="email">Email address:</label>
+          <label className='form-label' htmlFor="email">Email address:</label>
           <input className='form-control' type="email" name="email" defaultValue={email} onBlur={handleChange} />
         </div>
         <div className='mb-4 col-8'>
