@@ -8,13 +8,13 @@ import images3 from '../../assets/images/sqlproj-img.png';
 
 export default function Portfolio() {
   return (
-    <section className='portfolio container-fluid'>
+    <section className='portfolio container'>
 
       <h1 className='project-name'>Projects</h1>
 
-      <div className='portfolio-content container'>
+      <div className='container'>
 
-        <div className='card'>
+        <div className='card container'>
           <div className='card-header'>
             <a className='proj-link' href='https://elip2389.github.io/netflix-clone-build/'>Netflix-Clone-Build</a>
           </div>
@@ -24,7 +24,7 @@ export default function Portfolio() {
           </div>
         </div>
 
-        <div className='card'>
+        <div className='card container'>
           <div className='card-header'>
             <a className='proj-link' href='https://eli-budgettracker.herokuapp.com/'>Budget Tracker </a>
           </div>
@@ -34,7 +34,7 @@ export default function Portfolio() {
           </div>
         </div>
 
-        <div className='card'>
+        <div className='card container'>
           <div className='card-header'>
             <a className='proj-link' href='https://elip2389.github.io/horiseonMedia-challenge1/'>Media Code Refractor</a>
           </div>
@@ -44,7 +44,7 @@ export default function Portfolio() {
           </div>
         </div>
 
-        <div className='card'>
+        <div className='card container'>
           <div className='card-header'>
             <a className='proj-link' href='https://watch.screencastify.com/v/3aWZXq728N9NWovtCqgI'>Employee Tracker</a>
           </div>

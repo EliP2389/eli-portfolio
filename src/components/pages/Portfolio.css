@@ -27,14 +27,10 @@
 }
 
 .container {
+    font-size: 25px;
     position: relative;
     text-align: center;
-    color: white;
   }
-
-.portfolio-content{
-  font-size: 25px;
-}
 
 .proj-link {
   padding: 4px;
