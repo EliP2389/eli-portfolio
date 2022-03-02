@@ -1,12 +1,11 @@
 .resume-name{
-    /* color: white; */
     text-align: center;
     font-size: 60px;
     padding-bottom: 20px;
     text-transform: uppercase;
     font-family: verdana;
     font-weight: 60;
-    color: #f5f5f5;
+    color: beige;
     text-shadow: 1px 1px 1px #919191,
         1px 2px 1px #919191,
         1px 3px 1px #919191,
@@ -26,6 +25,11 @@
 .resume {
     position: relative;
     text-align: center;
+}
+
+.resume-doc {
+    width: 6rem;
+    margin-bottom: 10px;
 }
 
 .image {

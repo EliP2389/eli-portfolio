@@ -6,7 +6,7 @@
     text-transform: uppercase;
     font-family: verdana;
     font-weight: 60;
-    color: #f5f5f5;
+    color: beige;
     text-shadow: 1px 1px 1px #919191,
         1px 2px 1px #919191,
         1px 3px 1px #919191,
@@ -33,6 +33,10 @@
     font-size: 25px;
 }
 
+.form-label {
+  color: beige;
+}
+
 input {
     font-size: 1rem;
     padding: 0.25rem;
@@ -57,17 +61,11 @@ textarea {
 
 .button-form{
 color: white;
-background-color: blue;
+background-color: navy;
 font-size: 20px;
 font-weight: 700;
 border: none;
 border-radius: 0.2vw;
-}
-
-.button-form:hover {
-  color: white;
-  background-color: purple;
-  transition: all 0.3s;
 }
 
 @media screen and (max-width: 992px) {
