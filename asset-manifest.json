@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/eli-portfolio/static/css/main.d9eb19bd.css",
-    "main.js": "/eli-portfolio/static/js/main.4e2b6c45.js",
+    "main.css": "/eli-portfolio/static/css/main.65905525.css",
+    "main.js": "/eli-portfolio/static/js/main.1518475d.js",
     "static/js/787.114119fd.chunk.js": "/eli-portfolio/static/js/787.114119fd.chunk.js",
+    "static/media/netflix-clone.png": "/eli-portfolio/static/media/netflix-clone.ffc48df8a8f10a7ee6ac.png",
     "static/media/market-img.png": "/eli-portfolio/static/media/market-img.c56bd6c4ae900056da15.png",
     "static/media/sqlproj-img.png": "/eli-portfolio/static/media/sqlproj-img.79c58380c8380d520c9b.png",
-    "static/media/resume-img.png": "/eli-portfolio/static/media/resume-img.6a2c2b1ad0c8899dc1e1.png",
-    "static/media/social-img.png": "/eli-portfolio/static/media/social-img.10ff17c9abdd204c6165.png",
+    "static/media/resume-img.png": "/eli-portfolio/static/media/resume-img.3f3d11f3cf2d9a40b81f.png",
     "static/media/budget-img.png": "/eli-portfolio/static/media/budget-img.1202876521bde8f6a25d.png",
-    "static/media/ELI-RESUME.pdf": "/eli-portfolio/static/media/ELI-RESUME.24ca772a948f5e761af3.pdf",
+    "static/media/ELI-RESUME-FL.pdf": "/eli-portfolio/static/media/ELI-RESUME-FL.499d1666bbd55a9abbff.pdf",
     "index.html": "/eli-portfolio/index.html",
-    "main.d9eb19bd.css.map": "/eli-portfolio/static/css/main.d9eb19bd.css.map",
-    "main.4e2b6c45.js.map": "/eli-portfolio/static/js/main.4e2b6c45.js.map",
+    "main.65905525.css.map": "/eli-portfolio/static/css/main.65905525.css.map",
+    "main.1518475d.js.map": "/eli-portfolio/static/js/main.1518475d.js.map",
     "787.114119fd.chunk.js.map": "/eli-portfolio/static/js/787.114119fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9eb19bd.css",
-    "static/js/main.4e2b6c45.js"
+    "static/css/main.65905525.css",
+    "static/js/main.1518475d.js"
   ]
 }
