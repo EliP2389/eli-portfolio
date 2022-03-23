@@ -6,9 +6,9 @@ function About() {
         <section className='about-section container-fluid'>
             <h1 className='about'>About</h1>
             <div className='container'>
-                <div className='about-story card'>
+                <div className='about-story'>
                     <p className=''><strong>Full Stack Web Developer</strong> <br />
-                        My name is Eliezer Pagan, I am a recent graduate of the Full Stack Web Developer program through
+                        My name is Eliezer Pagan, I am a graduate of the Full Stack Web Developer program through
                         Columbia Engineering Coding Boot Camp. Ive come to learn both front-end and back-end technologies
                         and associated libraires and frameworks. I took the courageous step to step outside of my comfort
                         zone and learn web development. I come from a background of electrical and mechanical work as a
