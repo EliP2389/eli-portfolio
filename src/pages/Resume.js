@@ -6,7 +6,7 @@ import { defaultStyles, FileIcon } from 'react-file-icon'
 
 function Resume() {
   return (
-    <section className='container-fluid'>
+    <section className='my_resume container-fluid'>
       <div className='resume'>
         <h1 className='resume-name'>Resume</h1>
         <a className='resume-doc' href={document}>
