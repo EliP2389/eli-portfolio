@@ -1,3 +1,11 @@
+header {
+    margin-bottom: 50px;
+}
+
+nav {
+    margin-top: 50px;
+}
+
 .nav_content{
     margin-left: 30px;
     padding-top: 50px;
@@ -12,7 +20,6 @@
     font-size: 70px;
     font-weight: 60;
     color: white;
-    margin-bottom: 20px;
 }
 
 .flex-row{
@@ -29,6 +36,23 @@
     font-weight: 60;
     color: white;
 }
+
+.about_me {
+    border: solid white 2px;
+}
+
+.portfolio_me {
+    border: solid white 2px;
+}
+
+.contact_me {
+    border: solid white 2px;
+}
+
+.resume_me {
+    border: solid white 2px;
+}
+
 
 @media screen and (max-width: 992px) {
     .name {
