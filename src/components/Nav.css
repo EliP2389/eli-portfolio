@@ -38,19 +38,19 @@ nav {
 }
 
 .about_me {
-    border: solid white 2px;
+    border-bottom: solid white 2px;
 }
 
 .portfolio_me {
-    border: solid white 2px;
+    border-bottom: solid white 2px;
 }
 
 .contact_me {
-    border: solid white 2px;
+    border-bottom: solid white 2px;
 }
 
 .resume_me {
-    border: solid white 2px;
+    border-bottom: solid white 2px;
 }
 
 

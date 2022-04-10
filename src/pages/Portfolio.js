@@ -1,5 +1,6 @@
 import React from 'react';
 import './Portfolio.css';
+import image from '../assets/images/IG.png'
 import images from '../assets/images/meta-login.png'
 import images1 from '../assets/images/netflix-clone.png';
 import images2 from '../assets/images/save 2.png';
@@ -12,6 +13,16 @@ export default function Portfolio() {
     <section className='portfolio container'>
       <h1 className='project-name'>Projects</h1>
       <div className='row'>
+        <div className='card proj_one col-4'>
+          <div className='card-header'>
+            <a className='proj-link' href='https://thegram-2.vercel.app/'>Instagram</a>
+          </div>
+          <img className='card-img-top' src={image} alt='budget project' />
+          <div className='card-footer'>
+            <a className='proj-link' href='https://github.com/EliP2389/thegram_2.git'>GitHub Repo</a>
+          </div>
+        </div>
+
         <div className='card proj_one col-4'>
           <div className='card-header'>
             <a className='proj-link' href='https://metaverse-challenge-lyart-eight.vercel.app/'>Metaverse</a>
