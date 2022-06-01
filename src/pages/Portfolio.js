@@ -13,6 +13,16 @@ export default function Portfolio() {
     <section className='portfolio container'>
       <h1 className='project-name'>Projects</h1>
       <div className='row'>
+      <div className='card proj_one col-4'>
+          <div className='card-header'>
+            <a className='proj-link' href='https://thegram-2.vercel.app/'>NFT DROP</a>
+          </div>
+          <img className='card-img-top' src={image} alt='budget project' />
+          <div className='card-footer'>
+            <a className='proj-link' href='https://github.com/EliP2389/nft-yt-challenge.git'>GitHub Repo</a>
+          </div>
+        </div>
+
         <div className='card proj_one col-4'>
           <div className='card-header'>
             <a className='proj-link' href='https://thegram-2.vercel.app/'>Instagram</a>
