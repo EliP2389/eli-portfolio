@@ -6,6 +6,7 @@ import images1 from '../assets/images/netflix-clone.png';
 import images2 from '../assets/images/save 2.png';
 import images3 from '../assets/images/budget-img.png';
 import images4 from '../assets/images/sqlproj-img.png';
+import image5 from '../assets/images/nftdrop.png';
 
 
 export default function Portfolio() {
@@ -15,9 +16,9 @@ export default function Portfolio() {
       <div className='row'>
       <div className='card proj_one col-4'>
           <div className='card-header'>
-            <a className='proj-link' href='https://thegram-2.vercel.app/'>NFT DROP</a>
+            <a className='proj-link' href='https://nft-yt-challenge.vercel.app/'>NFT DROP</a>
           </div>
-          <img className='card-img-top' src={image} alt='budget project' />
+          <img className='card-img-top' src={image5} alt='budget project' />
           <div className='card-footer'>
             <a className='proj-link' href='https://github.com/EliP2389/nft-yt-challenge.git'>GitHub Repo</a>
           </div>
