@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/eli-portfolio/static/css/main.7acac932.css",
-    "main.js": "/eli-portfolio/static/js/main.55b3a445.js",
+    "main.js": "/eli-portfolio/static/js/main.5630a903.js",
     "static/js/787.41229317.chunk.js": "/eli-portfolio/static/js/787.41229317.chunk.js",
     "static/media/netflix-clone.png": "/eli-portfolio/static/media/netflix-clone.ffc48df8a8f10a7ee6ac.png",
     "static/media/meta-login.png": "/eli-portfolio/static/media/meta-login.3d88cfe9850c7d8ff0bc.png",
     "static/media/IG.png": "/eli-portfolio/static/media/IG.91cd4d5896f56ceddc56.png",
+    "static/media/nftdrop.png": "/eli-portfolio/static/media/nftdrop.79214d1c2a47a63d981a.png",
     "static/media/sqlproj-img.png": "/eli-portfolio/static/media/sqlproj-img.79c58380c8380d520c9b.png",
-    "static/media/Resume.png": "/eli-portfolio/static/media/Resume.b27447f2569300ce9a2d.png",
+    "static/media/Resume.png": "/eli-portfolio/static/media/Resume.650b2f7251af954b00c2.png",
     "static/media/budget-img.png": "/eli-portfolio/static/media/budget-img.1202876521bde8f6a25d.png",
     "static/media/save 2.png": "/eli-portfolio/static/media/save 2.789f6fd75b54a614b896.png",
-    "static/media/ELI-RESUME-Main.pdf": "/eli-portfolio/static/media/ELI-RESUME-Main.313e10812337f0522927.pdf",
+    "static/media/Resume-front end.pdf": "/eli-portfolio/static/media/Resume-front end.76feb7423ebfb052d08a.pdf",
     "index.html": "/eli-portfolio/index.html",
     "main.7acac932.css.map": "/eli-portfolio/static/css/main.7acac932.css.map",
-    "main.55b3a445.js.map": "/eli-portfolio/static/js/main.55b3a445.js.map",
+    "main.5630a903.js.map": "/eli-portfolio/static/js/main.5630a903.js.map",
     "787.41229317.chunk.js.map": "/eli-portfolio/static/js/787.41229317.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acac932.css",
-    "static/js/main.55b3a445.js"
+    "static/js/main.5630a903.js"
   ]
 }
