@@ -1,7 +1,7 @@
 import React from 'react';
 import './Resume.css';
 import image from '../assets/images/Resume.png';
-import document from '../assets/resume/ELI-RESUME-Main.pdf';
+import document from '../assets/resume/Resume-front end.pdf';
 import { defaultStyles, FileIcon } from 'react-file-icon'
 
 function Resume() {
